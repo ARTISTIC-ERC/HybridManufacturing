@@ -1,8 +1,10 @@
+![artistic-erc](https://user-images.githubusercontent.com/50483699/107214721-9c558680-6a0a-11eb-9cab-19a2f3829127.png)
+
 Battery_Combining_Learning
 ========================================================
 
 Battery_Combining_Learning is a repository with all necessary
-informations and ressources for experimental & stochastique analysis.
+informations and resources for experimental & stochastique analysis.
 
 Please, do not hesitate to discover the team of researchers behind the librairy and also the ARTISTIC project
  involved : [ARTISTIC](https://www.u-picardie.fr/erc-artistic/?L=0)
@@ -28,7 +30,7 @@ prediction of the porosity after calendering.
 
  Authors
  ========================================================
-  - **Marc DUQUESNOY** , Research Engineer
+  - **Marc Duquesnoy** , ALISTORE PhD
   
  Contributing 
 ========================================================
@@ -52,8 +54,8 @@ DOI
 
 Contributors
 ========================================================
-- **Marc DUQUESNOY** , Research Engineer
-- **Teo Lombardo** , PhD 
-- **Mehdi Chouchane** , PhD
-- **Emiliano Primo** , Post-Doc
-- **Alejandro A. Franco** , Principal Investigator
+  - **Marc Duquesnoy** , ALISTORE PhD
+  - **Teo Lombardo** , PhD
+  - **Mehdi Chouchane** , PhD
+  - **Emiliano N. Primo** , Post-Doc
+  - **Alejandro A. Franco** , Principal Investigator

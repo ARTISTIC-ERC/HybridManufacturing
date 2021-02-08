@@ -1,4 +1,4 @@
-![baniere](https://user-images.githubusercontent.com/61732964/76750069-e512aa00-677d-11ea-8baa-ad09ec2819b3.png)
+![artistic-erc](https://user-images.githubusercontent.com/50483699/107214721-9c558680-6a0a-11eb-9cab-19a2f3829127.png)
 
 HybridManufacturing
 ========================================================
@@ -27,6 +27,12 @@ Please, do not hesitate to discover the team of researchers behind the library a
 ========================================================
 
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
+
+
+DOI
+========================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901441.svg)](https://doi.org/10.5281/zenodo.3901441)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901459.svg)](https://doi.org/10.5281/zenodo.3901459)
 
 
  Contributors
